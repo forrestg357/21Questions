@@ -1,0 +1,49 @@
+Is it an Animal?
+Is it metal?
+Do you sit on it?
+Is it shaped like a cylinder?
+Do you jot notes on it?
+Is it a fruit?
+Is it a food item?
+Is it a clothing item?
+Does it have pages?
+Ticket
+Book
+Rain jacket
+Pizza
+Apple
+Sticky note
+Does it hold liquid?
+Marker
+Cup
+Chair
+Does it have a screen?
+Do you use it to eat?
+Wire-frame glasses
+Fork
+Does it have a keyboard?
+Phone
+Computer
+Can it fly?
+Does it have fur?
+Does it have scales?
+Is it a human?
+Is it associated with "Jaws"?
+Dolphin
+Shark
+Is it a professional coder?
+Does it do biology?
+Peter Kurto
+Forrest Gao
+Mr. Carroll
+Snake
+Does it move slowly?
+Does it purr?
+Does it have spots?
+Bear
+Cheetah
+Cat
+Koala
+Does it drink blood?
+Bird
+Bat
